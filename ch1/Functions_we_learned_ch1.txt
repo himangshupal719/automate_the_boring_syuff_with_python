@@ -1,0 +1,13 @@
+print()
+
+input()
+
+int()
+
+str()
+
+float()
+
+len()
+
+round()
